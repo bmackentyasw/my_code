@@ -1,3 +1,7 @@
+#
+# This file is used for students to enter their schedules. This will allow our homework program to grab homework. 
+#
+
 classes = ['math','science','advanced math', 'ss', 'la', 'spanish']
 my_schedule = []
 
